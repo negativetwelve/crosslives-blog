@@ -1,2 +1,8 @@
-markdown: rdiscount
+permalink: /:categories/:year/:month/:title
 pygments: true
+paginate: 10
+url: http://blog.crosslives.com
+markdown: rdiscount
+author:
+    name: Crosslives
+    email: contact@crosslives.com
