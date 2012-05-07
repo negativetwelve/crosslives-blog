@@ -25,5 +25,6 @@ Many sites have attempted community creation in one way or another over the past
 
 We’re glad our lives crossed together for this experiment. None of us know what will happen from this, but we can guarantee it will be a crazy ride. 
 
-Ronald AngSiy, aka, TheXepa
+<a href="http://crosslives.com">www.crosslives.com</a>
 
+Ronald AngSiy, aka, TheXepa
