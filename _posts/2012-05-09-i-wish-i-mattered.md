@@ -8,6 +8,8 @@ google_plus: 113892751841511864040
 date: 2012-05-09 00:26:00 -8
 ---
 
+"I wish I mattered"
+
 I remember the days of Myspace. I had 2000 friends online I think. That social graph made it so darn difficult to make the Facebook switch! I felt more popular online than offline. I felt that I mattered online, and that people cared about me. They were easy to maintain. Private network connections in general are easy to maintain. Of course, most of those relationships were meaningless. However, public communication is much different.
 
 Enter Twitter. I hated Twitter with a passion because no one would ever follow me. Why should they? I had nothing valuable to say. With celebrities, reporters, and executives on Twitter, I realized just how little I mattered. My words may have fit a small audience had I carved it out, but I am a normal person. I’m not a Youtube entertainment personality or someone with a deeply fascinating background.
